@@ -5,7 +5,7 @@
 * Menu para intolerantes a la lactosa
 + Menu vegano
 - Menu sin condiciones especiales
-Una vez seleccionado, el programa genera automaticamente un directorio llamado *mesa1* y dentro del mismo un documento de texto llamado *menu.txt*.
+#### Una vez seleccionado, el programa genera automaticamente un directorio llamado *mesa1* y dentro del mismo un documento de texto llamado *menu.txt*.
 Ahora solo falta que el cliente escriba lo que desea pedir y este pedido será guardado en el documento de texto previamente mencionado.
 #### Tambien se incluye un programa que reinicia toda acción realizada por el anterior, se ejecuta de la siguiente manera: *bash reiniciar.sh*
 > Aclarar que el programa y los menus estan escritos desde el humor y no se deben tomar en serio. No estan hechos con la inteción de ofender a nadie
