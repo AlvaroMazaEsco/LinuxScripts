@@ -1,5 +1,6 @@
 # MENU DIGITAL RESTAURANTE "MEDUSA SABROSA" EN SCRIPT BASH
 ## Script que muestra los menus de un restaurante ficticio separados por condiciones especiales e intolerancias y permite pedir lo que el cliente desee.
+### Hecho por Álvaro Maza Escolar y Guillermo García González del grado en Robótica e Inteligencia Artificial de la UCJC
 #### Una vez ejecutado con el comando *bash restaurante.sh* aparecera una bienvenida al restaurante y te pedirá que selecciones el tipo de menu que quieras visualizar de entre la siguiente lista: 
 - Menu para celiacos
 * Menu para intolerantes a la lactosa
